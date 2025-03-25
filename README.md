@@ -1,1 +1,1 @@
-# PlayGround
+# Azure OpenAI no PlayGround
